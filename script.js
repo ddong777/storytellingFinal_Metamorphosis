@@ -109,8 +109,8 @@ function addContent1(){
     else if (random(0,1) < 0.5 ) txt1 = txt1.replace(/총명한/gi,'피곤한');
     else if (random(0,1) < 0.6 ) txt1 = txt1.replace(/잘생긴/gi,'피곤한');
 
-    txt2 = btnText2.replace(/그래고르 잠자/gi,'--');
-    txt2 = txt2.replace(/그래고르/gi,'--');
+    txt2 = btnText2.replace(/그레고르 잠자/gi,'--');
+    txt2 = txt2.replace(/그레고르/gi,'--');
     txt2 = txt2.replace(/잠자/gi,'--');
 
     if (random(0,1) < 0.5 )txt2 = txt2.replace(/갑충/gi,'사람');
@@ -168,8 +168,8 @@ function addContent2(){
     else if (random(0,1) < 0.5 ) txt1 = txt1.replace(/총명한/gi,'피곤한');
     else if (random(0,1) < 0.6 ) txt1 = txt1.replace(/잘생긴/gi,'피곤한');
 
-    txt2 = btnText2.replace(/그래고르 잠자/gi,'--');
-    txt2 = txt2.replace(/그래고르/gi,'--');
+    txt2 = btnText2.replace(/그레고르 잠자/gi,'--');
+    txt2 = txt2.replace(/그레고르/gi,'--');
     txt2 = txt2.replace(/잠자/gi,'--');
 
     if (random(0,1) < 0.5 )txt2 = txt2.replace(/갑충/gi,'사람');
