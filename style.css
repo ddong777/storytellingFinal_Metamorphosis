@@ -1,0 +1,49 @@
+* {
+    margin: 10;
+    padding: 10;
+    line-height:160%;
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    margin: 10;
+    /* background-color: lightblue; */
+}
+
+.container {
+    width: 100%;
+    /* height: 750px; */
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 230px;
+    /* display: flex; */
+    /* background-color: lightblue; */
+}
+
+.block1 {
+    width: 100%;
+    margin-bottom: 80px;
+}
+
+.block2 {
+    width: 100%;
+}
+
+.footer {
+    width: 100%;
+    height: 60px;
+    position: fixed; 
+    bottom: 0;
+    /* background-color: lightblue; */
+}
+
+.unstyled-button {
+    border: none;
+    padding: 0;
+    background: none;
+}
+
+.unstyled-button:hover {
+    text-decoration: underline;
+}
